@@ -1,0 +1,12 @@
+{
+  "ticker": "NVDA",
+  "start": "2025-01-01",
+  "end": "2026-10-01",
+  "warmup_days": 90,
+  "calendar": "NASDAQ",
+  "news_limit": 1000,
+  "max_news_requests": 22,
+  "request_pause_seconds": 1.0,
+  "minimum_news_window_minutes": 1,
+  "sample_rows": 100
+}
