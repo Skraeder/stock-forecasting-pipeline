@@ -1,0 +1,9 @@
+# Referencia legible. El ejecutable usa config.example.json.
+ticker: NVDA
+start: '2025-01-01'
+end: '2026-10-01' # exclusivo
+calendar: NASDAQ
+warmup_days: 90
+max_news_requests: 22
+news_limit: 1000
+sample_rows: 100
